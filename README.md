@@ -3,6 +3,6 @@
 
 
 <p align="center">
-  <img width="900" height="450" src=VOC_report_Explanation.jpg>
+  <img width="900" height="450" src=README_VOC_report_Explanation.jpg>
 </p>
 
