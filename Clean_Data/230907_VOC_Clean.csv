@@ -1,86 +1,86 @@
-Peak,Reporting_Limit,08-23-CKS-21A,21A (42x),08-23-CKS-21B,08-23-CKS-22,08-23-CKS-23,Holmes Tap,08-23-CKS-Chris Blank,08-25-CKS-34,08-25-CKS-33,08-25-CKS-32,08-25-CKS-35,09-01-CKS-61,09-01-CKS-62
-Chloromethane (methyl chloride),1,n.a./n.r.,0.0661,0.0774,0.0921,0.0822,n.a./n.r.,0.0738,n.a./n.r.,0.0669,0.0946,0.0744,0.0751,0.067
-Chloroethene (vinyl chloride) ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Bromomethane (methyl bromide),1,n.a./n.r.,0.0737,0.0802,0.1029,0.0849,0.0871,0.0619,0.0701,0.0644,0.0914,0.0762,0.0704,0.0806
-Chloroethane (ethyl chloride),1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Trichlorofluoromethane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Diethyl ether,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,1-Dichloroethene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Acetone,2,18.3558,n.a./n.r.,23.6879,8.8989,8.9012,n.a./n.r.,n.a./n.r.,3.5737,15.3631,18.889,10.9497,1.4788,n.a./n.r.
-Iodomethane,1,0.0959,n.a./n.r.,0.0632,0.0802,0.0711,0.0694,0.0693,0.0566,0.0402,0.0618,0.0643,0.0612,0.0616
-Carbon disulfide,1,3.0291,0.0943,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-3-Chloropropene (allyl chloride),1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Methylene chloride,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0203,0.019,n.a./n.r.,0.0745,1.5852,1.4309,1.5702,1.8244,0.2118,0.4616
-"trans-1,2-Dichloroethene",1,0.0111,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Methyl tert-butyl ether (MTBE) ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,1-Dichloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"2,2-Dichloropropane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"cis-1,2-Dichloroethene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-2-Butanone (MEK),2,10.5283,n.a./n.r.,1.4295,n.a./n.r.,0.446,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Methyl acrylate,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Bromochloromethane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.2607,0.1896,0.4829,1.0367
-Methacrylonitrile ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Tetrahydrofuran,1,216.9879,4.8768,0.2501,n.a./n.r.,0.5421,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Trichloromethane (chloroform),1,1.6109,n.a./n.r.,8.1149,25.3836,26.4337,n.a./n.r.,n.a./n.r.,3.8005,27.1288,23.8827,33.4709,10.7601,19.2347
-"1,1,1-Trichloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Dibromofluoromethane (SS1),n.a.,10.2666,9.9309,10.1531,10.4657,10.3371,10.8705,10.4433,10.6099,10.6167,10.822,10.8932,10.8857,11.2026
-IS1 Pentafluorobenzene,n.a.,10,10,10,10,10,10,10,10,10,10,10,10,10
-Carbon tetrachloride ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-1-Chlorobutane (butyl chloride),1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,1-Dichloropropene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Benzene,1,0.0349,n.a./n.r.,0.1233,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,2-Dichloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"IS2 1,4-Difluorobenzene",n.a.,10,10,10,10,10,10,10,10,10,10,10,10,10
-Trichloroethene,1,0.0256,0.0084,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.005,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,2-Dichloropropane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Dibromomethane ,1,0.0142,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0688,n.a./n.r.,0.1061,0.3521
-Methyl methacrylate ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Bromodichloromethane,1,0.2879,n.a./n.r.,2.349,6.2686,7.1684,n.a./n.r.,n.a./n.r.,n.a./n.r.,5.8192,4.624,4.6644,2.4732,7.7422
-2-Nitropropane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"cis-1,3-Dichloropropene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-4-Methyl-2-pentanone (MIBK) ,2,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Toluene-d8 (SS2),n.a.,9.6645,9.5283,9.897,9.6174,9.6457,9.6298,9.4915,9.553,9.399,9.7612,9.639,9.7041,9.5507
-Toluene,1,0.0601,n.a./n.r.,0.1081,n.a./n.r.,0.0273,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0192,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0246
-"trans-1,3-Dichloropropene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Ethyl methacrylate ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,1,2-Trichloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Tetrachloroethene,1,n.a./n.r.,n.a./n.r.,0.0243,0.0093,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0048,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0059
-"1,3-Dichloropropane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-2-Hexanone,2,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Dibromochloromethane,1,0.1035,n.a./n.r.,1.1343,2.3578,2.7733,0.1327,n.a./n.r.,n.a./n.r.,1.8606,1.282,1.2138,0.5076,3.2617
-"1,2-Dibromoethane (EDB)",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-IS3 Chlorobenzene-d5,n.a.,10,10,10,10,10,10,10,10,10,10,10,10,10
-Chlorobenzene,1,0.0418,n.a./n.r.,0.0286,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,1,1,2-Tetrachloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Ethylbenzene,1,0.0353,n.a./n.r.,0.04,n.a./n.r.,0.032,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-m/p-Xylene,2,0.0394,0.0192,0.0463,0.024,0.0229,n.a./n.r.,n.a./n.r.,0.0122,0.0155,0.0153,0.0113,0.0202,n.a./n.r.
-o-Xylene,1,n.a./n.r.,n.a./n.r.,0.0311,n.a./n.r.,0.0309,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Styrene,1,n.a./n.r.,n.a./n.r.,0.0414,0.0248,0.021,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0122,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Bromoform,1,0.0289,n.a./n.r.,0.1828,0.2875,0.3262,4.3875,n.a./n.r.,0.0043,0.2414,n.a./n.r.,0.1386,0.0143,n.a./n.r.
-Isopropylbenzene (cumene) ,1,0.0304,n.a./n.r.,0.0246,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1-Bromo-4-fluorobenzene (BFB,SS3)",n.a.,11.2229,11.2258,10.6434,11.1021,11.1654,11.1345,11.3253,11.0953,11.1372,11.3256,11.211,10.9279,11.1695
-Bromobenzene,1,0.0591,0.0199,0.0477,0.0318,0.0205,0.0106,0.012,0.0145,n.a./n.r.,0.009,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,1,2,2-Tetrachloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,2,3-Trichloropropane (TCP)",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"trans-1,4-Dichloro-2-butene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-n-Propylbenzene,1,0.0637,n.a./n.r.,0.0524,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-2-Chlorotoluene,1,0.0466,n.a./n.r.,0.0211,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,3,5-Trimethylbenzene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0107,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0094
-4-Chlorotoluene,1,0.0692,0.0323,0.0546,0.0306,0.023,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-tert-Butylbenzene,1,n.a./n.r.,n.a./n.r.,0.013,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Pentachloroethane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,2,4-Trimethylbenzene",1,0.0535,0.0288,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0198,n.a./n.r.,0.0204,0.0194,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-1-Methylpropylbenzene (sec-butylbenzene),1,0.0416,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,3-Dichlorobenzene",1,0.0859,0.046,0.0764,0.052,0.0328,0.0225,0.0263,0.0219,0.0213,0.0176,0.0144,0.0184,0.0164
-4-Isopropyltoluene (p-cymene) ,1,0.0511,n.a./n.r.,0.1119,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"IS4 1,4-Dichlorobenzene-d4",n.a.,10,10,10,10,10,10,10,10,10,10,10,10,10
-"1,4-Dichlorobenzene",1,0.0935,0.0529,0.0917,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,2-Dichlorobenzene",1,0.0706,0.0358,0.0605,0.0423,0.0285,0.0251,0.0247,0.0222,0.0232,0.0226,0.0193,0.0177,0.0196
-n-Butylbenzene,1,0.0898,0.038,0.0878,0.0436,0.0282,0.0167,0.019,0.0189,0.0184,0.0193,0.0154,0.0128,0.0112
-Hexachloroethane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,2-Dibromo-3-chloropropane (DBCP)",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Nitrobenzene,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,2,4-Trichlorobenzene",1,0.1201,0.0871,0.1452,0.0883,0.053,0.043,0.0442,0.0427,n.a./n.r.,0.037,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"Hexachloro-1,3-butadiene",1,0.107,0.0636,0.0967,0.0477,0.0333,n.a./n.r.,n.a./n.r.,0.0222,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-Naphthalene,1,0.0725,0.0699,0.1095,0.0504,0.0911,0.033,0.0283,0.028,0.0213,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
-"1,2,3-Trichlorobenzene",1,0.114,0.0941,0.1216,0.0782,n.a./n.r.,n.a./n.r.,0.0355,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Peak,Reporting_Limit,08-23-CKS-21A,08-23-CKS-21B,08-23-CKS-22,08-23-CKS-23,Holmes Tap,08-23-CKS-Chris Blank,08-25-CKS-34,08-25-CKS-33,08-25-CKS-32,08-25-CKS-35,09-01-CKS-61,09-01-CKS-62
+Chloromethane (methyl chloride),1,n.a./n.r.,0.0774,0.0921,0.0822,n.a./n.r.,0.0738,n.a./n.r.,0.0669,0.0946,0.0744,0.0751,0.067
+Chloroethene (vinyl chloride) ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Bromomethane (methyl bromide),1,n.a./n.r.,0.0802,0.1029,0.0849,0.0871,0.0619,0.0701,0.0644,0.0914,0.0762,0.0704,0.0806
+Chloroethane (ethyl chloride),1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Trichlorofluoromethane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Diethyl ether,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,1-Dichloroethene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Acetone,2,18.3558,23.6879,8.8989,8.9012,n.a./n.r.,n.a./n.r.,3.5737,15.3631,18.889,10.9497,1.4788,n.a./n.r.
+Iodomethane,1,0.0959,0.0632,0.0802,0.0711,0.0694,0.0693,0.0566,0.0402,0.0618,0.0643,0.0612,0.0616
+Carbon disulfide,1,3.0291,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+3-Chloropropene (allyl chloride),1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Methylene chloride,1,n.a./n.r.,n.a./n.r.,0.0203,0.019,n.a./n.r.,0.0745,1.5852,1.4309,1.5702,1.8244,0.2118,0.4616
+"trans-1,2-Dichloroethene",1,0.0111,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Methyl tert-butyl ether (MTBE) ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,1-Dichloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"2,2-Dichloropropane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"cis-1,2-Dichloroethene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+2-Butanone (MEK),2,10.5283,1.4295,n.a./n.r.,0.446,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Methyl acrylate,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Bromochloromethane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.2607,0.1896,0.4829,1.0367
+Methacrylonitrile ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Tetrahydrofuran,1,216.9879,0.2501,n.a./n.r.,0.5421,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Trichloromethane (chloroform),1,1.6109,8.1149,25.3836,26.4337,n.a./n.r.,n.a./n.r.,3.8005,27.1288,23.8827,33.4709,10.7601,19.2347
+"1,1,1-Trichloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Dibromofluoromethane (SS1),n.a.,10.2666,10.1531,10.4657,10.3371,10.8705,10.4433,10.6099,10.6167,10.822,10.8932,10.8857,11.2026
+IS1 Pentafluorobenzene,n.a.,10,10,10,10,10,10,10,10,10,10,10,10
+Carbon tetrachloride ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+1-Chlorobutane (butyl chloride),1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,1-Dichloropropene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Benzene,1,0.0349,0.1233,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,2-Dichloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"IS2 1,4-Difluorobenzene",n.a.,10,10,10,10,10,10,10,10,10,10,10,10
+Trichloroethene,1,0.0256,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.005,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,2-Dichloropropane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Dibromomethane ,1,0.0142,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0688,n.a./n.r.,0.1061,0.3521
+Methyl methacrylate ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Bromodichloromethane,1,0.2879,2.349,6.2686,7.1684,n.a./n.r.,n.a./n.r.,n.a./n.r.,5.8192,4.624,4.6644,2.4732,7.7422
+2-Nitropropane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"cis-1,3-Dichloropropene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+4-Methyl-2-pentanone (MIBK) ,2,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Toluene-d8 (SS2),n.a.,9.6645,9.897,9.6174,9.6457,9.6298,9.4915,9.553,9.399,9.7612,9.639,9.7041,9.5507
+Toluene,1,0.0601,0.1081,n.a./n.r.,0.0273,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0192,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0246
+"trans-1,3-Dichloropropene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Ethyl methacrylate ,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,1,2-Trichloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Tetrachloroethene,1,n.a./n.r.,0.0243,0.0093,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0048,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0059
+"1,3-Dichloropropane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+2-Hexanone,2,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Dibromochloromethane,1,0.1035,1.1343,2.3578,2.7733,0.1327,n.a./n.r.,n.a./n.r.,1.8606,1.282,1.2138,0.5076,3.2617
+"1,2-Dibromoethane (EDB)",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+IS3 Chlorobenzene-d5,n.a.,10,10,10,10,10,10,10,10,10,10,10,10
+Chlorobenzene,1,0.0418,0.0286,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,1,1,2-Tetrachloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Ethylbenzene,1,0.0353,0.04,n.a./n.r.,0.032,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+m/p-Xylene,2,0.0394,0.0463,0.024,0.0229,n.a./n.r.,n.a./n.r.,0.0122,0.0155,0.0153,0.0113,0.0202,n.a./n.r.
+o-Xylene,1,n.a./n.r.,0.0311,n.a./n.r.,0.0309,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Styrene,1,n.a./n.r.,0.0414,0.0248,0.021,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0122,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Bromoform,1,0.0289,0.1828,0.2875,0.3262,4.3875,n.a./n.r.,0.0043,0.2414,n.a./n.r.,0.1386,0.0143,n.a./n.r.
+Isopropylbenzene (cumene) ,1,0.0304,0.0246,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1-Bromo-4-fluorobenzene (BFB,SS3)",n.a.,11.2229,10.6434,11.1021,11.1654,11.1345,11.3253,11.0953,11.1372,11.3256,11.211,10.9279,11.1695
+Bromobenzene,1,0.0591,0.0477,0.0318,0.0205,0.0106,0.012,0.0145,n.a./n.r.,0.009,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,1,2,2-Tetrachloroethane",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,2,3-Trichloropropane (TCP)",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"trans-1,4-Dichloro-2-butene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+n-Propylbenzene,1,0.0637,0.0524,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+2-Chlorotoluene,1,0.0466,0.0211,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,3,5-Trimethylbenzene",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0107,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0094
+4-Chlorotoluene,1,0.0692,0.0546,0.0306,0.023,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+tert-Butylbenzene,1,n.a./n.r.,0.013,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Pentachloroethane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,2,4-Trimethylbenzene",1,0.0535,n.a./n.r.,n.a./n.r.,n.a./n.r.,0.0198,n.a./n.r.,0.0204,0.0194,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+1-Methylpropylbenzene (sec-butylbenzene),1,0.0416,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,3-Dichlorobenzene",1,0.0859,0.0764,0.052,0.0328,0.0225,0.0263,0.0219,0.0213,0.0176,0.0144,0.0184,0.0164
+4-Isopropyltoluene (p-cymene) ,1,0.0511,0.1119,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"IS4 1,4-Dichlorobenzene-d4",n.a.,10,10,10,10,10,10,10,10,10,10,10,10
+"1,4-Dichlorobenzene",1,0.0935,0.0917,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,2-Dichlorobenzene",1,0.0706,0.0605,0.0423,0.0285,0.0251,0.0247,0.0222,0.0232,0.0226,0.0193,0.0177,0.0196
+n-Butylbenzene,1,0.0898,0.0878,0.0436,0.0282,0.0167,0.019,0.0189,0.0184,0.0193,0.0154,0.0128,0.0112
+Hexachloroethane,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,2-Dibromo-3-chloropropane (DBCP)",1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Nitrobenzene,1,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,2,4-Trichlorobenzene",1,0.1201,0.1452,0.0883,0.053,0.043,0.0442,0.0427,n.a./n.r.,0.037,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"Hexachloro-1,3-butadiene",1,0.107,0.0967,0.0477,0.0333,n.a./n.r.,n.a./n.r.,0.0222,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+Naphthalene,1,0.0725,0.1095,0.0504,0.0911,0.033,0.0283,0.028,0.0213,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
+"1,2,3-Trichlorobenzene",1,0.114,0.1216,0.0782,n.a./n.r.,n.a./n.r.,0.0355,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.,n.a./n.r.
