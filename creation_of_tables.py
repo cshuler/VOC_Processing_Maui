@@ -1044,7 +1044,7 @@ table.scale(1.2, 1.2)  # Scale the table as needed
 # Add title and subtitle above the table
 plt.suptitle('Number of Chemicals Detects Above Any Health Limit in Lahaina', fontsize=16, y=1.45)  # Move title higher up
 plt.title(f'Total number of samples: {total_samples_combo}', fontsize=14, y=1.67)  # Add subtitle below the title
-plt.savefig('summary_lahaina_plot.png')
+plt.savefig('summary_lahaina_plot.png', bbox_inches='tight')
 
 # Show plot
 plt.show()
@@ -1166,7 +1166,7 @@ table.scale(1.2, 1.2)  # Scale the table as needed
 # Add title and subtitle above the table
 plt.suptitle('Number of Chemicals Detects Above Any Health Limit in Kula', fontsize=16, y=1.45)  # Move title higher up
 plt.title(f'Total number of samples: {total_samples_kula}', fontsize=14, y=1.67)  # Add subtitle below the title
-plt.savefig('summary_kula_plot.png')
+plt.savefig('summary_kula_plot.png', bbox_inches='tight')
 # Show plot
 plt.show()
 
