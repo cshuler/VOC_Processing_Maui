@@ -112,25 +112,20 @@ specified_chemicals = ["Chloromethane (methyl chloride)", "Chloroethene (vinyl c
     "Methylene chloride (DCM)", "trans-1,2-Dichloroethene", "Methyl tert-butyl ether (MTBE)",
     "1,1-Dichloroethane", "2,2-Dichloropropane", "cis-1,2-Dichloroethene", "2-Butanone (MEK)",
     "Methyl acrylate", "Methacrylonitrile", "Bromochloromethane", "Tetrahydrofuran",
-    "Trichloromethane (chloroform)", "1,1,1-Trichloroethane", "Dibromofluoromethane [SS1]",
-    "Pentafluorobenzene [IS1]", "1-Chlorobutane (butyl chloride)", "Carbon tetrachloride",
-    "1,1-Dichloropropene", "Benzene", "1,2-Dichloroethane", "1,4-Difluorobenzene [IS2]",
+    "Trichloromethane (chloroform)", "1,1,1-Trichloroethane", "1-Chlorobutane (butyl chloride)", "Carbon tetrachloride",
+    "1,1-Dichloropropene", "Benzene", "1,2-Dichloroethane",
     "Trichloroethene", "1,2-Dichloropropane", "Dibromomethane", "Methyl methacrylate",
-    "Bromodichloromethane", "2-Nitropropane", "cis-1,3-Dichloropropene", "4-Methyl-2-pentanone (MIBK)",
-    "Toluene-d8 [SS2]", "Toluene", "trans-1,3-Dichloropropene", "Ethyl methacrylate",
+    "Bromodichloromethane", "2-Nitropropane", "cis-1,3-Dichloropropene", "4-Methyl-2-pentanone (MIBK)", "Toluene", "trans-1,3-Dichloropropene", "Ethyl methacrylate",
     "1,1,2-Trichloroethane", "Tetrachloroethene", "1,3-Dichloropropane", "2-Hexanone",
-    "Dibromochloromethane", "1,2-Dibromoethane (EDB)", "Chlorobenzene-d5 [IS3]", "Chlorobenzene",
+    "Dibromochloromethane", "1,2-Dibromoethane (EDB)", "Chlorobenzene",
     "1,1,1,2-Tetrachloroethane", "Ethylbenzene", "m/p-Xylene", "o-Xylene", "Styrene",
-    "Bromoform", "Isopropylbenzene (cumene)", "1-Bromo-4-fluorobenzene (BFB) [SS3]",
-    "Bromobenzene", "1,1,2,2-Tetrachloroethane", "1,2,3-Trichloropropane (TCP)",
+    "Bromoform", "Isopropylbenzene (cumene)","Bromobenzene", "1,1,2,2-Tetrachloroethane", "1,2,3-Trichloropropane (TCP)",
     "trans-1,4-Dichloro-2-butene", "n-Propylbenzene", "2-Chlorotoluene", "1,3,5-Trimethylbenzene",
     "4-Chlorotoluene", "tert-Butylbenzene", "Pentachloroethane", "1,2,4-Trimethylbenzene",
-    "1-Methylpropylbenzene (sec-butylbenzene)", "1,3-Dichlorobenzene", "4-Isopropyltoluene (p-cymene)",
-    "1,4-Dichlorobenzene-d4 [IS4]", "1,4-Dichlorobenzene", "n-Butylbenzene", "1,2-Dichlorobenzene",
+    "1-Methylpropylbenzene (sec-butylbenzene)", "1,3-Dichlorobenzene", "4-Isopropyltoluene (p-cymene)", "1,4-Dichlorobenzene", "n-Butylbenzene", "1,2-Dichlorobenzene",
     "Hexachloroethane", "1,2-Dibromo-3-chloropropane (DBCP)", "Nitrobenzene", "1,2,4-Trichlorobenzene",
     "Hexachloro-1,3-butadiene", "Naphthalene", "1,2,3-Trichlorobenzene"
 ]
-
 # ----------------------------------------------------------------------------------------------------#
 # -DATFRAME comboination cleanup -
 # ----------------------------------------------------------------------------------------------------#
