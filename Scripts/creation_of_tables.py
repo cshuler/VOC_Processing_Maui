@@ -81,7 +81,7 @@ def compare_samples_to_limit(df):
     
     # Compare and set sample values
     for sample_col in sample_cols:
-        df[sample_col] = df.apply(lambda row: 0 if row[sample_col] < row[limit_col] else row[sample_col], axis=1)
+        df[sample_col] = df.apply(lambda row: np.nan if row[sample_col] < row[limit_col] else row[sample_col], axis=1)
     
     return df
 
