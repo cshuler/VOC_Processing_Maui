@@ -1,0 +1,89 @@
+,Peak,20ppb,DIH2O-Vial,Fridge-Blank,3,4,5,6,11,0.5ppb
+0,Chloromethane (methyl chloride),5.282,n.a.,n.a.,n.a.,n.a.,n.a.,0.334,n.a.,n.a.
+1,Chloroethene (vinyl chloride),,,,,,,,,
+2,Bromomethane (methyl bromide),20.626,0.316,0.332,0.347,0.386,0.381,0.361,0.403,0.992
+3,Chloroethane (ethyl chloride),22.883,n.a.,n.a.,0.04,n.a.,n.a.,n.a.,n.a.,0.377
+4,Trichlorofluoromethane,22.346,0.008,0.003,n.a.,n.a.,n.a.,n.a.,n.a.,0.26
+5,Diethyl ether,20.134,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.441
+6,"1,1-Dichloroethene",17.297,0.016,0.002,n.a.,n.a.,n.a.,0.004,0.002,0.236
+7,Acetone,33.057,0.752,0.473,1.553,1.575,0.625,1.271,3.214,1.192
+8,Iodomethane,35.955,0.203,0.208,0.14,0.225,0.145,0.229,0.194,0.705
+9,Carbon disulfide,23.268,0.19,0.089,0.026,0.053,0.045,0.066,0.038,0.351
+10,3-Chloropropene (allyl chloride),28.037,n.a.,n.a.,n.a.,n.a.,n.a.,0.038,n.a.,0.404
+11,Methylene chloride,21.115,2.805,2.823,2.842,2.748,2.917,2.868,2.829,5.368
+12,"trans-1,2-Dichloroethene",20.258,0.054,0.012,n.a.,0.005,0.007,0.01,0.005,0.32
+13,Acrylonitrile,20.643,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.117
+14,Methyl tert-butyl ether (MTBE),,,,,,,,,
+15,"1,1-Dichloroethane",22.807,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.38
+16,"2,2-Dichloropropane",25.41,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.391
+17,"cis-1,2-Dichloroethene",20.816,0.012,0.003,n.a.,n.a.,0.003,0.002,n.a.,0.334
+18,2-Butanone (MEK),38.962,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.267,0.852
+19,Propionitrile (ethylcyanide),14.919,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+20,Methyl acrylate,27.719,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.545
+21,Bromochloromethane,21.061,0.02,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.41
+22,Tetrahydrofuran,19.378,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.345,0.323
+23,Methacrylonitrile,,,,,,,,,
+24,Trichloromethane (chloroform),22.238,0.003,0.003,12.685,11.782,0.031,21.092,22.495,0.422
+25,"1,1,1-Trichloroethane",21.492,0.004,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.338
+26,Dibromofluoromethane (SS1),16.497,14.895,14.93,15.377,15.067,15.261,15.331,15.53,14.887
+27,IS1 Pentafluorobenzene,10.0,10,10,10,10,10,10,10,10
+28,Carbon tetrachloride,,,,,,,,,
+29,1-Chlorobutane (butyl chloride),22.076,0.128,0.118,0.11,0.108,0.112,0.113,0.112,0.437
+30,"1,1-Dichloropropene",20.524,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.305
+31,Benzene,19.01,0.022,0.015,0.006,0.013,0.015,0.017,0.014,0.335
+32,"1,2-Dichloroethane",18.742,0.022,0.002,0.004,0.003,0.003,0.003,0.004,0.414
+33,"IS2 1,4-Difluorobenzene",10.0,10,10,10,10,10,10,10,10
+34,Trichloroethene,16.35,0.037,0.009,0.001,0.005,0.005,0.004,0.003,0.282
+35,"1,2-Dichloropropane",20.458,0.006,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.421
+36,Dibromomethane,,,,,,,,,
+37,Methyl methacrylate,,,,,,,,,
+38,Bromodichloromethane,23.749,0.013,n.a.,6.285,6.171,0.012,6.923,7.962,0.471
+39,2-Nitropropane,23.782,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.574
+40,Chloroacetonitrile,18.546,n.a.,n.a.,0.275,0.228,n.a.,n.a.,0.2,0.522
+41,"cis-1,3-Dichloropropene",27.56,0.044,0.015,n.a.,0.003,n.a.,n.a.,n.a.,0.523
+42,4-Methyl-2-pentanone (MIBK),,,,,,,,,
+43,Toluene-d8 (SS2),9.686,9.571,9.746,9.594,9.555,9.659,9.468,9.962,9.866
+44,Toluene,19.363,0.033,0.017,0.014,0.014,0.017,0.016,0.015,0.322
+45,"trans-1,3-Dichloropropene",29.836,0.068,0.026,0.007,0.008,n.a.,0.014,0.007,0.59
+46,Ethyl methacrylate,,,,,,,,,
+47,"1,1,2-Trichloroethane",19.551,0.01,n.a.,n.a.,n.a.,n.a.,n.a.,0.008,0.464
+48,Tetrachloroethene,16.498,0.039,0.016,0.004,0.007,0.005,0.007,0.003,0.288
+49,"1,3-Dichloropropane",20.691,0.02,0.004,n.a.,n.a.,n.a.,0.002,n.a.,0.468
+50,2-Hexanone,18.577,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.466
+51,Dibromochloromethane,26.352,0.021,0.005,3.833,3.699,0.007,3.621,4.009,0.553
+52,"1,2-Dibromoethane (EDB)",24.39,0.037,0.01,n.a.,0.005,0.004,0.007,n.a.,0.585
+53,IS3 Chlorobenzene-d5,10.0,10,10,10,10,10,10,10,10
+54,Chlorobenzene,19.662,0.051,0.019,0.005,0.008,0.007,0.012,0.006,0.355
+55,"1,1,1,2-Tetrachloroethane",24.022,0.009,0.003,n.a.,n.a.,n.a.,n.a.,n.a.,0.446
+56,Ethylbenzene,20.074,0.049,0.014,0.007,0.01,0.008,0.012,0.011,0.296
+57,m/p-Xylene,20.356,0.054,0.018,0.011,0.012,0.01,0.015,0.017,0.288
+58,o-Xylene,19.829,0.035,0.011,0.01,0.011,0.009,0.012,0.012,0.284
+59,Styrene,20.268,0.061,0.02,0.01,0.01,0.009,0.019,0.011,0.335
+60,Bromoform,26.243,0.022,0.004,0.609,0.59,0.004,0.517,0.542,0.615
+61,Isopropylbenzene (cumene),,,,,,,,,
+62,"1-Bromo-4-fluorobenzene (BFB,SS3)",9.741,10.769,10.685,10.534,10.909,10.93,10.707,10.771,10.766
+63,Bromobenzene,19.381,0.079,0.017,n.a.,0.006,n.a.,0.016,0.007,0.435
+64,"1,1,2,2-Tetrachloroethane",22.681,0.018,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.607
+65,"1,2,3-Trichloropropane (TCP)",20.493,0.041,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.566
+66,"trans-1,4-Dichloro-2-butene",20.743,0.039,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.588
+67,n-Propylbenzene,20.492,0.096,0.026,0.008,0.011,0.011,0.015,0.008,0.308
+68,2-Chlorotoluene,19.593,0.065,0.012,n.a.,n.a.,n.a.,0.003,0.003,0.344
+69,"1,3,5-Trimethylbenzene",20.478,0.063,0.016,0.008,0.009,0.01,0.011,0.008,0.278
+70,4-Chlorotoluene,20.219,0.092,0.03,0.003,0.012,0.011,0.016,0.01,0.336
+71,tert-Butylbenzene,19.801,0.042,0.007,n.a.,n.a.,n.a.,0.002,n.a.,0.279
+72,Pentachloroethane,22.893,0.021,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.474
+73,"1,2,4-Trimethylbenzene",21.484,0.087,0.03,0.017,0.022,0.02,0.024,0.027,0.322
+74,1-Methylpropylbenzene (sec-butylbenzene),20.667,0.087,0.018,0.004,0.007,0.004,0.008,0.002,0.268
+75,"1,3-Dichlorobenzene",20.362,0.126,0.044,0.01,0.019,0.017,0.03,0.014,0.417
+76,4-Isopropyltoluene (p-cymene),,,,,,,,,
+77,"IS4 1,4-Dichlorobenzene-d4",10.0,10,10,10,10,10,10,10,10
+78,"1,4-Dichlorobenzene",20.37,0.147,0.05,0.014,0.023,0.021,0.029,0.017,0.479
+79,"1,2-Dichlorobenzene",19.508,0.103,0.04,0.015,0.019,0.021,0.025,0.017,0.433
+80,n-Butylbenzene,23.033,0.169,0.048,0.011,0.018,0.018,0.026,0.015,0.315
+81,Hexachloroethane,22.005,0.051,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.399
+82,"1,2-Dibromo-3-chloropropane (DBCP)",18.099,0.063,0.01,n.a.,n.a.,n.a.,n.a.,n.a.,0.734
+83,Nitrobenzene,18.732,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,1.289
+84,"1,2,4-Trichlorobenzene",20.038,0.287,0.091,0.02,0.037,0.032,0.057,0.03,0.648
+85,"Hexachloro-1,3-butadiene",19.754,0.183,0.059,0.009,0.017,0.016,0.025,0.014,0.371
+86,Naphthalene,16.297,0.263,0.074,0.017,0.031,0.022,0.039,0.047,0.948
+87,"1,2,3-Trichlorobenzene",18.113,0.405,0.109,0.019,0.045,0.036,0.063,0.038,1.02
