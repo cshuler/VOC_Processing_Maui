@@ -71,11 +71,18 @@ if not dataframes:
 # ----------------------------------------------------------------------------------------------------#
 # - Calc detects -
 # ----------------------------------------------------------------------------------------------------#
-
+def clean_numeric_data(df):
+    """Clean data by removing problematic characters and coercing to numeric."""
+    # Remove any leading/trailing spaces
+    df = df.applymap(lambda x: str(x).strip() if isinstance(x, str) else x)
+    
+    # Convert all values to numeric (float), coercing errors to NaN
+    df = df.apply(pd.to_numeric)
+    
+    return df
 def compare_samples_to_limit(df):
     # Identify the reporting limit column
     limit_col = [col for col in df.columns if 'Reporting_Limit' in col][0]
-    
     # Identify the sample columns (all columns except the reporting limit)
     sample_cols = [col for col in df.columns if col != limit_col]
     
@@ -88,23 +95,10 @@ def compare_samples_to_limit(df):
 # Process each DataFrame
 for i, df in enumerate(dataframes):
     df.replace(['n.a.', 'n.a./n.r.'], np.nan, inplace=True)
-    # Convert all values to numeric (float), coercing errors to NaN
-    df = df.apply(pd.to_numeric, errors='coerce')
+    df.index = df.index.to_series().replace('Methylene chloride', 'Methylene chloride (DCM)')
+    df.index = df.index.str.strip()
+    df = clean_numeric_data(df)
     dataframes[i] = compare_samples_to_limit(df) 
- 
-#ALL VALUES LESS THAN REPORTING LIMIT IS SET TO 0#
-
-# ----------------------------------------------------------------------------------------------------#
-# - Combine both datasets -
-# ----------------------------------------------------------------------------------------------------#
-
-# Combine all DataFrames into one using an outer join to align the chemicals
-combined_df = pd.concat(dataframes, axis=1, join='outer')
-
-# Display the combined DataFrame
-print("Combined DataFrame:")
-print(combined_df.head())
-
 specified_chemicals = ["Chloromethane (methyl chloride)", "Chloroethene (vinyl chloride)", 
     "Bromomethane (methyl bromide)", "Chloroethane (ethyl chloride)",
     "Trichlorofluoromethane", "Diethyl ether", "1,1-Dichloroethene", "Acetone",
@@ -126,6 +120,22 @@ specified_chemicals = ["Chloromethane (methyl chloride)", "Chloroethene (vinyl c
     "Hexachloroethane", "1,2-Dibromo-3-chloropropane (DBCP)", "Nitrobenzene", "1,2,4-Trichlorobenzene",
     "Hexachloro-1,3-butadiene", "Naphthalene", "1,2,3-Trichlorobenzene"
 ]
+
+#ALL VALUES LESS THAN REPORTING LIMIT IS SET TO 0#
+
+# ----------------------------------------------------------------------------------------------------#
+# - Combine both datasets -
+# ----------------------------------------------------------------------------------------------------#
+
+
+# Combine all DataFrames into one using an outer join to align chemicals
+combined_df = pd.concat(dataframes, axis=1, join='outer')
+
+
+# Display the combined DataFrame
+print("Combined DataFrame:")
+print(combined_df.head())
+
 # ----------------------------------------------------------------------------------------------------#
 # -DATFRAME comboination cleanup -
 # ----------------------------------------------------------------------------------------------------#
