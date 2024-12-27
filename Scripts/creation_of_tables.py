@@ -150,7 +150,8 @@ transposed_df = filtered_combined_df.T
 transposed_df.reset_index(inplace=True)
 transposed_df.rename(columns={'index': 'Sample ID'}, inplace=True)
 
-
+tapwaterdf['Sample ID'] = tapwaterdf['Sample ID'].str.strip()
+transposed_df['Sample ID'] = transposed_df['Sample ID'].str.strip()
 merged_df = pd.merge(tapwaterdf, transposed_df, on='Sample ID', how='inner')
 
 def is_in_bounding_box(lat, lon, bounding_box):
@@ -170,7 +171,6 @@ def get_city(latitude, longitude):
 
 # Apply the get_city function to each row in the DataFrame
 merged_df['City'] = merged_df.apply(lambda row: get_city(row['Public Y'], row['Public X']), axis=1)
-
 # ----------------------------------------------------------------------------------------------------#
 # - Creation of Lahaina+Kula DFs -
 # ----------------------------------------------------------------------------------------------------#
