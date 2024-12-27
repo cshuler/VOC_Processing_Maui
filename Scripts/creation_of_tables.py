@@ -25,7 +25,19 @@ tap_water_variations = ['Tap Water', 'tap', 'Tap', 'tap water']
 #Filter the dataframe
 tapwaterdf = df[df['SampleType'].isin(tap_water_variations)]
 print(tapwaterdf)
+id_mapping = {
+    '03-11-24-01-JI': '03-11-24-JI-01',
+    '03-20-24-JI-01': '3-20-24-JI-01',
+    '03-20-24-JI-12': '3-20-24-JI-12',
+    '11-07-CKS-05': '11-07-CKS-5',
+    '03-20-CDS-10': '3-20-24-CES-10',
+    '9-29-JES-1':'9-26-JES-1',
+    '11-07-CKS-2':'11-07–CKS-2',
+    '11-07-CKS-3':'11-07–CKS-3'
+}
 
+# Update the Sample IDs in all_df
+tapwaterdf['Sample ID'] = tapwaterdf['Sample ID'].replace(id_mapping)
 # ----------------------------------------------------------------------------------------------------#
 # - Bring in clean VOC data -
 # ----------------------------------------------------------------------------------------------------#
