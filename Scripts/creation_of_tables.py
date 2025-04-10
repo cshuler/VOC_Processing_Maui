@@ -21,7 +21,7 @@ url = 'https://github.com/cshuler/VOC_Processing_Maui/blob/main/MASTER_Maui_VOC_
 df = pd.read_csv(url,index_col=0)
 print(df.head(5))
 # Only have tapwater samples 
-tap_water_variations = ['Tap Water', 'tap', 'Tap', 'tap water']
+tap_water_variations = ['Tap Water', 'tap', 'Tap', 'tap water','Kitchen Tap','Cottage Tap']
 #Filter the dataframe
 tapwaterdf = df[df['SampleType'].isin(tap_water_variations)]
 print(tapwaterdf)
