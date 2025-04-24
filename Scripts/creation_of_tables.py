@@ -337,7 +337,7 @@ min_chronic_health_limit = {"Chloromethane (methyl chloride)": np.nan,
                 "Naphthalene":70 , 
                 "1,2,3-Trichlorobenzene":np.nan,
 }
-chronic_df = pd.DataFrame(list(min_chronic_health_limit.items()), columns=['Chemical', 'MDPH Chronic'])
+chronic_df = pd.DataFrame(list(min_chronic_health_limit.items()), columns=['Chemical', 'MDH Chronic'])
 
 min_subchronic_limit = {
                  "Acetone": 5000, 
@@ -375,7 +375,7 @@ min_subchronic_limit = {
                 "1,2,4-Trichlorobenzene":100,#chronic
                 "Naphthalene":70 , 
 }
-subchronic_df = pd.DataFrame(list(min_subchronic_limit.items()), columns=['Chemical', 'MDPH Sub-Chronic'])
+subchronic_df = pd.DataFrame(list(min_subchronic_limit.items()), columns=['Chemical', 'MDH Sub-Chronic'])
 epa_mcgl_limit = {
     "Chloroethene (vinyl chloride)": 0,
     "trans-1,2-Dichloroethene": 100 ,
@@ -619,8 +619,8 @@ for chemical in chemical_columns:
     # Get the health limits for the current chemical
     limit_row_combo = combined_limits_df[combined_limits_df['Chemical'] == chemical]
     if not limit_row_combo.empty:
-        mdph_chronic_limit_combo = limit_row_combo['MDPH Chronic'].values[0]
-        mdph_subchronic_limit_combo = limit_row_combo['MDPH Sub-Chronic'].values[0]
+        mdph_chronic_limit_combo = limit_row_combo['MDH Chronic'].values[0]
+        mdph_subchronic_limit_combo = limit_row_combo['MDH Sub-Chronic'].values[0]
         epa_mcgl_limit_combo = limit_row_combo['EPA MCLG'].values[0]
         epa_mcl_limit_combo = limit_row_combo['EPA MCL'].values[0]
     else:
@@ -652,7 +652,7 @@ for chemical in chemical_columns:
     summary_data_combo.append([chemical, total_samples_combo, number_of_detects_combo, number_of_detects_above_mdph_chronic_combo, number_of_detects_above_mdph_subchronic_combo, number_of_detects_above_epa_mcgl_combo, number_of_detects_above_epa_mcl_combo])
 
 # Convert summary data to a DataFrame
-summary_df_combo = pd.DataFrame(summary_data_combo, columns=['Chemical', 'Total number of samples', 'Number of Detects', 'Number of Detects Above MDPH Chronic', 'Number of Detects Above MDPH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL'])
+summary_df_combo = pd.DataFrame(summary_data_combo, columns=['Chemical', 'Total number of samples', 'Number of Detects', 'Number of Detects Above MDH Chronic', 'Number of Detects Above MDH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL'])
 # Convert summary data to a DataFrame
 summary_df_combo = summary_df_combo.fillna("-")
 # Add colors
@@ -672,7 +672,7 @@ ax.set_xlim(0, ncols + 1)
 ax.set_ylim(0, nrows * 2 + 4)  # Adjust ylim to increase row spacing
 
 positions = [0.1, 2.5, 3.3, 4.3, 5.4, 6.3]
-columns = ['Chemical', 'Number of Detects', 'Number of Detects Above MDPH Chronic', 'Number of Detects Above MDPH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL']
+columns = ['Chemical', 'Number of Detects', 'Number of Detects Above MDH Chronic', 'Number of Detects Above MDH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL']
 
 # Add table's main text
 for i in range(nrows):
@@ -690,7 +690,7 @@ for i in range(nrows):
         )
 
 # Add column names
-column_names = ['Chemical', 'Number\nof\nDetects', 'Number\nof Detects\nAbove MDPH\nChronic', 'Number\nof Detects\nAbove MDPH\nSub-Chronic', 'Number\nof Detects\nAbove\nEPA MCLG', 'Number\nof Detects\nAbove\nEPA MCL']
+column_names = ['Chemical', 'Number\nof\nDetects', 'Number\nof Detects\nAbove MDH\nChronic', 'Number\nof Detects\nAbove MDH\nSub-Chronic', 'Number\nof Detects\nAbove\nEPA MCLG', 'Number\nof Detects\nAbove\nEPA MCL']
 for index, c in enumerate(column_names):
     ha = 'left' if index == 0 else 'center'
     ax.annotate(
@@ -728,8 +728,8 @@ for chemical in chemical_columns:
     # Get the health limits for the current chemical
     limit_row_combok = combined_limits_df[combined_limits_df['Chemical'] == chemical]
     if not limit_row_combok.empty:
-        mdph_chronic_limit_combok = limit_row_combok['MDPH Chronic'].values[0]
-        mdph_subchronic_limit_combok = limit_row_combok['MDPH Sub-Chronic'].values[0]
+        mdph_chronic_limit_combok = limit_row_combok['MDH Chronic'].values[0]
+        mdph_subchronic_limit_combok = limit_row_combok['MDH Sub-Chronic'].values[0]
         epa_mcgl_limit_combok = limit_row_combok['EPA MCLG'].values[0]
         epa_mcl_limit_combok = limit_row_combok['EPA MCL'].values[0]
     else:
@@ -761,7 +761,7 @@ for chemical in chemical_columns:
     summary_data_combok.append([chemical, total_samples_combok, number_of_detects_combok, number_of_detects_above_mdph_chronic_combok, number_of_detects_above_mdph_subchronic_combok, number_of_detects_above_epa_mcgl_combok, number_of_detects_above_epa_mcl_combok])
 
 # Convert summary data to a DataFrame
-summary_df_combok = pd.DataFrame(summary_data_combok, columns=['Chemical', 'Total number of samples', 'Number of Detects', 'Number of Detects Above MDPH Chronic', 'Number of Detects Above MDPH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL'])
+summary_df_combok = pd.DataFrame(summary_data_combok, columns=['Chemical', 'Total number of samples', 'Number of Detects', 'Number of Detects Above MDH Chronic', 'Number of Detects Above MDH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL'])
 # Convert summary data to a DataFrame
 summary_df_combok = summary_df_combok.fillna("-")
 
@@ -780,7 +780,7 @@ ax.set_xlim(0, ncols + 1)
 ax.set_ylim(0, nrows * 2 + 4)  # Adjust ylim to increase row spacing
 
 positions = [0.1, 2.5, 3.3, 4.3, 5.4, 6.3]
-columns = ['Chemical', 'Number of Detects', 'Number of Detects Above MDPH Chronic', 'Number of Detects Above MDPH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL']
+columns = ['Chemical', 'Number of Detects', 'Number of Detects Above MDH Chronic', 'Number of Detects Above MDH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL']
 
 # Add table's main text
 for i in range(nrows):
@@ -798,7 +798,7 @@ for i in range(nrows):
         )
 
 # Add column names
-column_names = ['Chemical', 'Number\nof\nDetects', 'Number\nof Detects\nAbove MDPH\nChronic', 'Number\nof Detects\nAbove MDPH\nSub-Chronic', 'Number\nof Detects\nAbove\nEPA MCLG', 'Number\nof Detects\nAbove\nEPA MCL']
+column_names = ['Chemical', 'Number\nof\nDetects', 'Number\nof Detects\nAbove MDH\nChronic', 'Number\nof Detects\nAbove MDH\nSub-Chronic', 'Number\nof Detects\nAbove\nEPA MCLG', 'Number\nof Detects\nAbove\nEPA MCL']
 for index, c in enumerate(column_names):
     ha = 'left' if index == 0 else 'center'
     ax.annotate(
@@ -845,8 +845,8 @@ for chemical in chemical_columns:
     # Get the health limits for the current chemical
     limit_row_all = combined_limits_df[combined_limits_df['Chemical'] == chemical]
     if not limit_row_all.empty:
-        mdph_chronic_limit_all = limit_row_all['MDPH Chronic'].values[0]
-        mdph_subchronic_limit_all = limit_row_all['MDPH Sub-Chronic'].values[0]
+        mdph_chronic_limit_all = limit_row_all['MDH Chronic'].values[0]
+        mdph_subchronic_limit_all = limit_row_all['MDH Sub-Chronic'].values[0]
         epa_mcgl_limit_all = limit_row_all['EPA MCLG'].values[0]
         epa_mcl_limit_all = limit_row_all['EPA MCL'].values[0]
     else:
@@ -878,7 +878,7 @@ for chemical in chemical_columns:
     summary_data_all.append([chemical, total_samples_all, number_of_detects_all, number_of_detects_above_mdph_chronic_all, number_of_detects_above_mdph_subchronic_all, number_of_detects_above_epa_mcgl_all, number_of_detects_above_epa_mcl_all])
 
 # Convert summary data to a DataFrame
-summary_df_all = pd.DataFrame(summary_data_all, columns=['Chemical', 'Total number of samples', 'Number of Detects', 'Number of Detects Above MDPH Chronic', 'Number of Detects Above MDPH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL'])
+summary_df_all = pd.DataFrame(summary_data_all, columns=['Chemical', 'Total number of samples', 'Number of Detects', 'Number of Detects Above MDH Chronic', 'Number of Detects Above MDH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL'])
 # Convert summary data to a DataFrame
 summary_df_all = summary_df_all.fillna("-")
 
@@ -897,7 +897,7 @@ ax.set_xlim(0, ncols + 1)
 ax.set_ylim(0, nrows * 2 + 4)  # Adjust ylim to increase row spacing
 
 positions = [0.1, 2.5, 3.3, 4.3, 5.4, 6.3]
-columns = ['Chemical', 'Number of Detects', 'Number of Detects Above MDPH Chronic', 'Number of Detects Above MDPH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL']
+columns = ['Chemical', 'Number of Detects', 'Number of Detects Above MDH Chronic', 'Number of Detects Above MDH Sub-Chronic', 'Number of Detects Above EPA MCLG', 'Number of Detects Above EPA MCL']
 
 # Add table's main text
 for i in range(nrows):
@@ -915,7 +915,7 @@ for i in range(nrows):
         )
 
 # Add column names
-column_names = ['Chemical', 'Number\nof\nDetects', 'Number\nof Detects\nAbove MDPH\nChronic', 'Number\nof Detects\nAbove MDPH\nSub-Chronic', 'Number\nof Detects\nAbove\nEPA MCLG', 'Number\nof Detects\nAbove\nEPA MCL']
+column_names = ['Chemical', 'Number\nof\nDetects', 'Number\nof Detects\nAbove MDH\nChronic', 'Number\nof Detects\nAbove MDH\nSub-Chronic', 'Number\nof Detects\nAbove\nEPA MCLG', 'Number\nof Detects\nAbove\nEPA MCL']
 for index, c in enumerate(column_names):
     ha = 'left' if index == 0 else 'center'
     ax.annotate(
@@ -958,8 +958,8 @@ for chemical in chemical_columns:
     # Get the health limits for the current chemical
     limit_row_combo = combined_limits_df[combined_limits_df['Chemical'] == chemical]
     if not limit_row_combo.empty:
-        mdph_chronic_limit_combo = limit_row_combo['MDPH Chronic'].values[0]
-        mdph_subchronic_limit_combo = limit_row_combo['MDPH Sub-Chronic'].values[0]
+        mdph_chronic_limit_combo = limit_row_combo['MDH Chronic'].values[0]
+        mdph_subchronic_limit_combo = limit_row_combo['MDH Sub-Chronic'].values[0]
         epa_mcgl_limit_combo = limit_row_combo['EPA MCLG'].values[0]
         epa_mcl_limit_combo = limit_row_combo['EPA MCL'].values[0]
     else:
@@ -991,10 +991,10 @@ for chemical in chemical_columns:
     summary_data_combo.append([chemical, number_of_detects_combo, number_of_detects_above_mdph_chronic_combo, number_of_detects_above_mdph_subchronic_combo, number_of_detects_above_epa_mcgl_combo, number_of_detects_above_epa_mcl_combo])
 
 # Convert summary data to a DataFrame
-summary_df_combo = pd.DataFrame(summary_data_combo, columns=['Chemical', 'Number of Detects', 'Detects Above MDPH Chronic', 'Detects Above MDPH Sub-Chronic', 'Detects Above EPA MCLG', 'Detects Above EPA MCL'])
+summary_df_combo = pd.DataFrame(summary_data_combo, columns=['Chemical', 'Number of Detects', 'Detects Above MDH Chronic', 'Detects Above MDH Sub-Chronic', 'Detects Above EPA MCLG', 'Detects Above EPA MCL'])
 
 # Ensure numeric columns are of numeric type, except for cells with "-"
-numeric_columns = ['Number of Detects', 'Detects Above MDPH Chronic', 'Detects Above MDPH Sub-Chronic', 'Detects Above EPA MCLG', 'Detects Above EPA MCL']
+numeric_columns = ['Number of Detects', 'Detects Above MDH Chronic', 'Detects Above MDH Sub-Chronic', 'Detects Above EPA MCLG', 'Detects Above EPA MCL']
 for col in numeric_columns:
     summary_df_combo[col] = pd.to_numeric(summary_df_combo[col], errors='coerce')
 
@@ -1008,9 +1008,9 @@ def get_chemical_color(row):
     elif any(row[col] != "-" and row[col] > 0 for col in numeric_columns[1:]):
         if row['Detects Above EPA MCL'] != "-" and row['Detects Above EPA MCL'] > 0:
             return 'red'
-        elif row['Detects Above MDPH Sub-Chronic'] != "-" and row['Detects Above MDPH Sub-Chronic'] > 0:
+        elif row['Detects Above MDH Sub-Chronic'] != "-" and row['Detects Above MDH Sub-Chronic'] > 0:
             return 'orange'
-        elif row['Detects Above MDPH Chronic'] != "-" and row['Detects Above MDPH Chronic'] > 0:
+        elif row['Detects Above MDH Chronic'] != "-" and row['Detects Above MDH Chronic'] > 0:
             return 'orange'
         elif row['Detects Above EPA MCLG'] != "-" and row['Detects Above EPA MCLG'] > 0:
             return 'yellow'
@@ -1029,8 +1029,8 @@ table = ax.table(
     colLabels=[
         'Chemical', 
         'Number of Detects', 
-        'MDPH Chronic', 
-        'MDPH Sub-Chronic', 
+        'MDH Chronic', 
+        'MDH Sub-Chronic', 
         'EPA MCLG', 
         'EPA MCL'
     ],
@@ -1084,8 +1084,8 @@ for chemical in chemical_columns:
     # Get the health limits for the current chemical
     limit_row_kula = combined_limits_df[combined_limits_df['Chemical'] == chemical]
     if not limit_row_kula.empty:
-        mdph_chronic_limit_kula = limit_row_kula['MDPH Chronic'].values[0]
-        mdph_subchronic_limit_kula = limit_row_kula['MDPH Sub-Chronic'].values[0]
+        mdph_chronic_limit_kula = limit_row_kula['MDH Chronic'].values[0]
+        mdph_subchronic_limit_kula = limit_row_kula['MDH Sub-Chronic'].values[0]
         epa_mcgl_limit_kula = limit_row_kula['EPA MCLG'].values[0]
         epa_mcl_limit_kula = limit_row_kula['EPA MCL'].values[0]
     else:
@@ -1117,10 +1117,10 @@ for chemical in chemical_columns:
     summary_data_kula.append([chemical, number_of_detects_kula, number_of_detects_above_mdph_chronic_kula, number_of_detects_above_mdph_subchronic_kula, number_of_detects_above_epa_mcgl_kula, number_of_detects_above_epa_mcl_kula])
 
 # Convert summary data to a DataFrame
-summary_df_kula = pd.DataFrame(summary_data_kula, columns=['Chemical', 'Number of Detects', 'Detects Above MDPH Chronic', 'Detects Above MDPH Sub-Chronic', 'Detects Above EPA MCLG', 'Detects Above EPA MCL'])
+summary_df_kula = pd.DataFrame(summary_data_kula, columns=['Chemical', 'Number of Detects', 'Detects Above MDH Chronic', 'Detects Above MDH Sub-Chronic', 'Detects Above EPA MCLG', 'Detects Above EPA MCL'])
 
 # Ensure numeric columns are of numeric type, except for cells with "-"
-numeric_columns = ['Number of Detects', 'Detects Above MDPH Chronic', 'Detects Above MDPH Sub-Chronic', 'Detects Above EPA MCLG', 'Detects Above EPA MCL']
+numeric_columns = ['Number of Detects', 'Detects Above MDH Chronic', 'Detects Above MDH Sub-Chronic', 'Detects Above EPA MCLG', 'Detects Above EPA MCL']
 for col in numeric_columns:
     summary_df_kula[col] = pd.to_numeric(summary_df_kula[col], errors='coerce')
 
@@ -1134,9 +1134,9 @@ def get_chemical_color(row):
     elif any(row[col] != "-" and row[col] > 0 for col in numeric_columns[1:]):
         if row['Detects Above EPA MCL'] != "-" and row['Detects Above EPA MCL'] > 0:
             return 'red'
-        elif row['Detects Above MDPH Sub-Chronic'] != "-" and row['Detects Above MDPH Sub-Chronic'] > 0:
+        elif row['Detects Above MDH Sub-Chronic'] != "-" and row['Detects Above MDH Sub-Chronic'] > 0:
             return 'orange'
-        elif row['Detects Above MDPH Chronic'] != "-" and row['Detects Above MDPH Chronic'] > 0:
+        elif row['Detects Above MDH Chronic'] != "-" and row['Detects Above MDH Chronic'] > 0:
             return 'orange'
         elif row['Detects Above EPA MCLG'] != "-" and row['Detects Above EPA MCLG'] > 0:
             return 'yellow'
@@ -1155,8 +1155,8 @@ table = ax.table(
     colLabels=[
         'Chemical', 
         'Number of Detects', 
-        'MDPH Chronic', 
-        'MDPH Sub-Chronic', 
+        'MDH Chronic', 
+        'MDH Sub-Chronic', 
         'EPA MCLG', 
         'EPA MCL'
     ],
