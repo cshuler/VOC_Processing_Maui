@@ -340,7 +340,7 @@ min_chronic_health_limit = {"Chloromethane (methyl chloride)": np.nan,
 chronic_df = pd.DataFrame(list(min_chronic_health_limit.items()), columns=['Chemical', 'MDH Chronic'])
 
 min_subchronic_limit = {
-                 "Acetone": 5000, 
+                 "Acetone": 9000, 
                 "Methyl tert-butyl ether (MTBE)":700,
                 "1,1-Dichloroethane": 400, 
                 "cis-1,2-Dichloroethene": 20 ,
@@ -385,7 +385,7 @@ epa_mcgl_limit = {
     "Trichloromethane (chloroform)": 70,
     "1,1,1-Trichloroethane":200,
     "Carbon tetrachloride":0,
-    "Benzene": 0 ,
+    "Benzene": 0,
     "1,2-Dichloroethane":0,
     "1,2-Dichloropropane": 5,
     "Bromodichloromethane":0,
@@ -1030,7 +1030,7 @@ table = ax.table(
         'Chemical', 
         'Number of Detects', 
         'MDH Chronic', 
-        'MDH Sub-Chronic', 
+        'MDH Short-Term', 
         'EPA MCLG', 
         'EPA MCL'
     ],
@@ -1156,7 +1156,7 @@ table = ax.table(
         'Chemical', 
         'Number of Detects', 
         'MDH Chronic', 
-        'MDH Sub-Chronic', 
+        'MDH Short-Term', 
         'EPA MCLG', 
         'EPA MCL'
     ],
