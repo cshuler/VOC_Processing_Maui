@@ -1,5 +1,8 @@
 # WRRC VOC Processing – Maui Fire Response
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17365218.svg)](https://doi.org/10.5281/zenodo.17365218)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)]()
 [![Reproducible-Env](https://img.shields.io/badge/env-conda-blue.svg)]()
