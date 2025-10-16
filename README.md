@@ -9,14 +9,13 @@
 
 Post-processing pipeline and curated outputs for volatile organic compound (VOC) sampling conducted by the University of Hawaiʻi Water Resources Research Center (WRRC) in the aftermath of the 2023 Maui wildfires. This repo contains processing notebooks/scripts, a harmonized public data table, health-limit keys, and summary tables used to generate community-facing reports.
 
-> For a visual overview of the fields used in the one-page reports, see the README figure below.
-
-
-> **Community Water Info Hub**  
-> For project background, sampling updates, and public resources, see:  
+**Community Water Info Hub**  
+For project background, sampling updates, and public resources, see:  
 > https://www.wrrc.hawaii.edu/maui-post-fire-community-water-info-hub/
+>
+> 
 
-
+For a visual overview of the fields used in the one-page reports, see the README figure below.
 
 <p align="center">
   <img width="900" height="450" src=README_VOC_report_Explanation.jpg>
